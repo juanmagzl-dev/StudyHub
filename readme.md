@@ -57,11 +57,6 @@ StudyBuddy es una plataforma innovadora que combina el aprendizaje colaborativo 
 - Integración con Ollama
 - Modelos específicos para aprendizaje
 
-## 🚀 Próximos Pasos
-- [ ] Implementación del sistema de autenticación
-- [ ] Desarrollo del chat en tiempo real
-- [ ] Integración de la IA
-- [ ] Sistema de gamificación
-- [ ] Características premium
+
 
 
