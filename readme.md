@@ -1,12 +1,12 @@
-# StudyBuddy - Plataforma de Estudio Colaborativo con IA
+# StudyHub - Plataforma de Estudio Colaborativo
 
 ## 📚 Descripción
-StudyBuddy es una plataforma innovadora que combina el aprendizaje colaborativo con la inteligencia artificial para crear una experiencia de estudio más efectiva y personalizada. La plataforma permite a los estudiantes conectarse, compartir conocimientos y recibir asistencia inteligente en su proceso de aprendizaje.
+StudyHub es una plataforma innovadora que combina el aprendizaje colaborativo para crear una experiencia de estudio más efectiva y personalizada. La plataforma permite a los estudiantes conectarse, compartir conocimientos y colaborar en su proceso de aprendizaje.
 
 ## ✨ Características Principales
 
 ### 👥 Gestión de Usuarios
-- Registro mediante correo electrónico o redes sociales
+- Registro mediante correo electrónico
 - Perfiles personalizables con intereses académicos y materias de estudio
 - Niveles de progreso y logros
 
@@ -17,45 +17,51 @@ StudyBuddy es una plataforma innovadora que combina el aprendizaje colaborativo 
   - Grupos de estudio
   - Historial de conversaciones
   - Materiales compartidos
-  - Apuntes y resúmenes generados por IA
+  - Apuntes y resúmenes
 
-### 🤖 Asistente IA Integrado
-- Respuestas inteligentes a preguntas académicas
-- Generación automática de resúmenes
-- Creación de cuestionarios para autoevaluación
-- Asistencia personalizada en diferentes materias
+### 📝 Sistema de Estudio
+- Creación y gestión de grupos de estudio
+- Sistema de notas y apuntes compartidos
+- Creación de cuestionarios
+- Sistema de búsqueda de material
+- Generación automática de resúmenes con IA
 
 ### 💬 Sistema de Chat
 - Comunicación en tiempo real entre estudiantes
-- Chats privados y grupales por materias**W
+- Chats privados y grupales por materias
 - Compartir archivos y apuntes
-- Moderación automática de contenido
+
+### 🤖 Asistente IA
+- Generación automática de resúmenes de textos
+- Extracción de puntos clave de documentos
+- Síntesis de información importante
 
 ## 🚀 Funciones Adicionales
 
 ### Características Premium
-- Salas de estudio en vivo con videollamadas
-- Integración con herramientas externas (Notion, Google Drive)***W
-- Suscripción premium con:*******
-  - Acceso a IA más avanzada
+- Salas de estudio colaborativas
+- Suscripción premium con:
   - Tutorías personalizadas
   - Recursos exclusivos
+  - Funcionalidades avanzadas de grupo
 
 ## 🛠️ Stack Tecnológico
 
 ### Backend
-- Node.js con Express/NestJS
-- Turso DB para almacenamiento
-- WebSockets/Firebase para chat en tiempo real
-- Redis
+- Laravel (PHP) para la lógica principal del servidor
+- Node.js para funcionalidades en tiempo real
+- Turso DB para base de datos
 
 ### Frontend
-- Astro(con tailwind)
+- HTML5
+- CSS3 para estilos
+- JavaScript para interactividad
 - Diseño responsive
 
-### IA
-- Integración con Ollama
-- Modelos específicos para aprendizaje
+### Integraciones
+- WebSockets para chat en tiempo real
+- APIs RESTful para comunicación cliente-servidor
+- Integración con API de IA para generación de resúmenes
 
 
 
