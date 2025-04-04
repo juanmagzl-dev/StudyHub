@@ -36,14 +36,6 @@ StudyHub es una plataforma innovadora que combina el aprendizaje colaborativo pa
 - Extracción de puntos clave de documentos
 - Síntesis de información importante
 
-## 🚀 Funciones Adicionales
-
-### Características Premium
-- Salas de estudio colaborativas
-- Suscripción premium con:
-  - Tutorías personalizadas
-  - Recursos exclusivos
-  - Funcionalidades avanzadas de grupo
 
 ## 🛠️ Stack Tecnológico
 
